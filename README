@@ -1,0 +1,13 @@
+<Password-Generator>
+
+==Description
+Application created to allow the user to generate a random password based off their preferences.  This offers the user a more security for their profiles and projects.
+
+==Installation
+Can clone repo on github to view code used to create application.
+
+==Usage
+This application can be used by any website requiring a password.  The best way for the user to have a secure password is the use a password generator that creates random and unique passwords.
+
+==Credits
+Begining html, css, and start of javascript provide by Coding bootcamp

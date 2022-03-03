@@ -1,13 +1,19 @@
-<Password-Generator>
+# Password-Generator
 
-==Description
+## Description
 Application created to allow the user to generate a random password based off their preferences.  This offers the user a more security for their profiles and projects.
 
-==Installation
-Can clone repo on github to view code used to create application.
+## Depolyed Webpage
 
-==Usage
+
+## Installation
+To install, go to https://github.com/samposig/Portfolio.  On the top right side click the button labled "code".  Copy the html, open a terminal, and enter 'git clone' + the html link you copied.  This will clone repository down to your local computer.
+
+## Usage
 This application can be used by any website requiring a password.  The best way for the user to have a secure password is the use a password generator that creates random and unique passwords.
 
-==Credits
-Begining html, css, and start of javascript provide by Coding bootcamp
+## Screenshot
+![Screenshot](./Screenshot.png)
+
+## License
+https://choosealicense.com
